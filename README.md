@@ -1,8 +1,9 @@
 ### Hello, I'm Patrick 👋
 
 
-- 🔭 I’m currently working on <a href="https://geact.com.br" target="_blank">GEACT</a> and <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>;
-- 🌱 I’m currently learning React.js, React Native, Typescript and Node.js;
+- 🔭 I’m currently working on SoftExpert;
+- 🔬 Projects I've been part of <a href="https://geact.com.br" target="_blank">GEACT</a> and <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>;
+- 🌱 I’m currently learning Symfony, Laravel, React.js, React Native, Typescript and Node.js;
 - 👯 I’m looking to collaborate on dynamic platforms;
 - 💬 Ask me about anything;
 - 📫 How to reach me: <a href="https://patrickcremonese.com.br" target="_blank">Website<a/> or <a href="mailto:contato@patrickcremonese.com.br" target="_blank">contato@patrickcremonese.com.br<a/>
