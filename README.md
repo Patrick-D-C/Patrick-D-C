@@ -1,7 +1,6 @@
 ### Hello, I'm Patrick 👋
 
 
-- 🔭 I’m currently working on SoftExpert;
 - 🔬 Projects I've been part of <a href="https://geact.com.br" target="_blank">GEACT</a> and <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>;
 - 🌱 I’m currently learning Symfony, Laravel, React.js, React Native, Typescript and Node.js;
 - 👯 I’m looking to collaborate on dynamic platforms;
@@ -29,8 +28,7 @@
   
   
   <div> 
-  <a href="https://instagram.com/patrickdcremonese" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Patrick D.C#7841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/patrickdcremonese" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/patrickdeitoscremonese" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
