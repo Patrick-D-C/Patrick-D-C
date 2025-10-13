@@ -1,7 +1,7 @@
 ### Hello, I'm Patrick 👋
 
 
-- 🔬 Projects I've participated in: <a href="https://geact.com.br" target="_blank">GEACT</a> and <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>, CastelFrutasApp, VideplastApp;
+- 🔬 Projects I've participated in: <a href="https://geact.com.br" target="_blank">GEACT</a>, <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>, CastelFrutasApp, VideplastApp and <a href="https://tudoporaqui.com.br" target="_blank">Tudoporaqui</a> ;
 - 🌱 I'm currently learning React Native, Typescript, and Python;
 - 💬 Ask me anything;
 - 📫 How to contact me: <a href="https://pcsolucoes.tech" target="_blank">Website<a/> or <a href="mailto:contato@patrickcremonese.com.br" target="_blank">contato@patrickcremonese.com.br<a/>
