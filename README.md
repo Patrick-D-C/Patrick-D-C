@@ -1,11 +1,10 @@
 ### Hello, I'm Patrick 👋
 
 
-- 🔬 Projects I've been part of <a href="https://geact.com.br" target="_blank">GEACT</a> and <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>;
-- 🌱 I’m currently learning Symfony, Laravel, React.js, React Native, Typescript and Node.js;
-- 👯 I’m looking to collaborate on dynamic platforms;
-- 💬 Ask me about anything;
-- 📫 How to reach me: <a href="https://patrickcremonese.com.br" target="_blank">Website<a/> or <a href="mailto:contato@patrickcremonese.com.br" target="_blank">contato@patrickcremonese.com.br<a/>
+- 🔬 Projects I've participated in: <a href="https://geact.com.br" target="_blank">GEACT</a> and <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>, CastelFrutasApp, VideplastApp;
+- 🌱 I'm currently learning React Native, Typescript, and Python;
+- 💬 Ask me anything;
+- 📫 How to contact me: <a href="https://pcsolucoes.tech" target="_blank">Website<a/> or <a href="mailto:contato@patrickcremonese.com.br" target="_blank">contato@patrickcremonese.com.br<a/>
 
 <div align="center">
   <a href="https://github.com/Patrick-D-C">
