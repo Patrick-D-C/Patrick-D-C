@@ -7,10 +7,10 @@
 - 📫 How to contact me: <a href="https://pcsolucoes.tech" target="_blank">Website<a/> or <a href="mailto:contato@patrickcremonese.com.br" target="_blank">contato@patrickcremonese.com.br<a/>
 
 <div align="center">
-  <a href="https://github.com/Patrick-D-C">
+  <!-- <a href="https://github.com/Patrick-D-C">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-D-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-D-C&langs_count=7&theme=tokyonight"/>
-  </a>
+  </a> -->
 </div>
 <div style="display: inline_block;"><br>    
   <img align="center" alt="Patrick-PHP" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
