@@ -1,36 +1,82 @@
-### Hello, I'm Patrick 👋
+<h1 align="center">👋 Hello, I'm Patrick Deitos Cremonese</h1>
+<h3 align="center">Full-stack Developer • Founder at PC – Soluções em Tecnologia</h3>
 
+<p align="center">
+  🚀 Transforming ideas into <b>modern, scalable, high-performance systems</b>.<br/>
+  💡 Specialized in <b>Web, Mobile and Automation</b> using the latest techs.<br/>
+</p>
 
-- 🔬 Projects I've participated in: <a href="https://geact.com.br" target="_blank">GEACT</a>, <a href="https://cartz.cartaz.digital" target="_blank">Cartz</a>, CastelFrutasApp, VideplastApp and <a href="https://tudoporaqui.com.br" target="_blank">Tudoporaqui</a> ;
-- 🌱 I'm currently learning React Native, Typescript, and Python;
-- 💬 Ask me anything;
-- 📫 How to contact me: <a href="https://pcsolucoes.tech" target="_blank">Website<a/> or <a href="mailto:contato@patrickcremonese.com.br" target="_blank">contato@patrickcremonese.com.br<a/>
+---
 
-<div align="center">
-  <!-- <a href="https://github.com/Patrick-D-C">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-D-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-D-C&langs_count=7&theme=tokyonight"/>
-  </a> -->
-</div>
-<div style="display: inline_block;"><br>    
-  <img align="center" alt="Patrick-PHP" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
-  <img align="center" alt="Patrick-Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-  <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Patrick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Patrick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Patrick-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-  
-  ##
-  
-  
-  <div> 
-  <a href="https://instagram.com/patrickdcremonese" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/patrickdeitoscremonese" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
-  
+### 🧩 Projects I've built or contributed to
+- 🏫 <a href="https://geact.com.br" target="_blank"><b>GEACT</b></a> – Real Estate Launch Management Platform
+- 🛒 <a href="https://cartz.cartaz.digital" target="_blank"><b>Cartz</b></a> – Digital Catalog & Order System  
+- 🍍 **Castel Frutas App** – Fruit evaluation application
+- 🧃 **Videplast App** – Process and notification management application  
+- 🌎 <a href="https://tudoporaqui.com.br" target="_blank"><b>TudoPorAqui</b></a> – Local business marketplace  
 
+---
+
+### 🛠️ Tech Stack
+
+#### 💬 Languages
+`TypeScript`  `JavaScript (ES6+)`  `PHP`  `SQL (MySQL, PostgreSQL, SQLite)`  `HTML5`  `CSS3 / Sass`  `JSON / YAML / Markdown`
+
+#### ⚛️ Frontend & Mobile
+`React`  `React Native`  `Expo`  `React Navigation`  `React Hook Form / Zod / Formik / Yup`  
+`Zustand`  `React Query`  `Firebase`  `SQLite`  `Victory Native`  `React Native Paper`  
+`React Dropzone`  `DateTimePicker`  `SweetAlert`  `Toastify`  `React Quill`  `Swiper`
+
+#### 🕸️ Web & UI
+`Next.js`  `Inertia.js`  `Redux Toolkit / Saga / Context API`  `Tailwind CSS`  `Material UI`  
+`Styled Components`  `Bootstrap`  `PostCSS`  `Alpine.js`  `Emotion`  `Axios`  `js-cookie`
+
+#### ⚙️ Backend & APIs
+`Laravel (7 → 10)`  `Laravel Sail / Mix / UI`  `Spatie Permission`  `JWT Auth`  `Maatwebsite Excel`  `DOMPDF / MPDF / PHPWord`  
+`Redis / Predis`  `Intervention Image`  `dotenv`  `Facebook Business SDK`  `Google Recaptcha`
+
+#### 🧱 Node.js & Ecosystem
+`Node.js`  `TypeORM`  `PostgreSQL`  `Migrations / Seeds`  `npm / yarn`  `Vite`  `Webpack`  `Babel`
+
+#### 🔧 DevOps & Tools
+`Docker / Compose`  `Bitbucket Pipelines`  `GitHub Actions`  `Prettier`  `ESLint`  `Git / Git Flow`  `Postman`  `Insomnia`
+
+#### 🧪 Tests
+`PHPUnit`  `Mockery`  `Mocha`  `Chai`  `Jest`
+
+#### 💾 Databases
+`MySQL`  `PostgreSQL`  `SQLite`  `Firebase Firestore`  `Redis / Predis`  `AsyncStorage`
+
+#### 🎨 UI / UX
+`Material UI`  `React Native Paper`  `Tailwind`  `Styled Components`  `Bootstrap`  `Toastify`
+
+#### 🌐 Integrations & APIs
+`Firebase`  `Facebook SDK`  `Google Recaptcha`  `Axios`  `Email / WhatsApp Sharing`  `Simple QrCode`
+
+#### 🧩 Concepts & Architecture
+`Offline-first`  `SSR / SSG`  `JWT Auth`  `RBAC (Permissions)`  `Context API`  `Redux / Zustand State`  `CI/CD`  
+`Secure Storage`  `i18n`  `Technical Docs (README, Seeds, Setup)`  `Modular Architecture`
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Patrick-D-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-D-C&layout=compact&langs_count=10&theme=tokyonight"/>
+</p>
+
+---
+
+### 💬 Let’s connect
+<p align="center">
+  <a href="https://pcsolucoes.tech" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:contato@patrickcremonese.com.br"><img src="https://img.shields.io/badge/✉️%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/patrickdeitoscremonese" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/patrickdcremonese" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Patrick-D-C&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
