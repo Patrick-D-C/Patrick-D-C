@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Patrick Deitos Cremonese</h1>
-<h3 align="center">Full-stack Developer • Founder at PC – Soluções em Tecnologia</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="center">
   🚀 Transforming ideas into <b>modern, scalable, high-performance systems</b>.<br/>
