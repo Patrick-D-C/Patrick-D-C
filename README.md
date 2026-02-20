@@ -9,6 +9,7 @@
 ---
 
 ### 🧩 Projects I've built or contributed to
+- 💹 Zelo - Gestão financeira Compartilhada
 - 🏫 <a href="https://geact.com.br" target="_blank"><b>GEACT</b></a> – Real Estate Launch Management Platform
 - 🛒 <a href="https://cartz.cartaz.digital" target="_blank"><b>Cartz</b></a> – Digital Catalog & Order System  
 - 🍍 **Castel Frutas App** – Fruit evaluation application
@@ -56,14 +57,6 @@
 #### 🧩 Concepts & Architecture
 `Offline-first`  `SSR / SSG`  `JWT Auth`  `RBAC (Permissions)`  `Context API`  `Redux / Zustand State`  `CI/CD`  
 `Secure Storage`  `i18n`  `Technical Docs (README, Seeds, Setup)`  `Modular Architecture`
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Patrick-D-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-D-C&layout=compact&langs_count=10&theme=tokyonight"/>
-</p>
 
 ---
 
