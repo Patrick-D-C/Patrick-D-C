@@ -61,10 +61,10 @@
 
 ### 💬 Let’s connect
 <p align="center">
-  <a href="https://pcsolucoes.tech" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:contato@patrickcremonese.com.br"><img src="https://img.shields.io/badge/✉️%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://desvprog.com.br" target="_blank">🌐</a>
+  <a href="mailto:contato@desvprog.com.br"><img src="https://img.shields.io/badge/✉️%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/patrickdeitoscremonese" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/patrickdcremonese" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/desvprog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
