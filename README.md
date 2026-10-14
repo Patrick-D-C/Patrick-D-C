@@ -9,7 +9,7 @@
 ---
 
 ### 🧩 Projects I've built or contributed to
-- 💹 <a href="https://zelofamiliar.com.br" target="_blank"><b>Zelo</b> - Gestão financeira Compartilhada</a>
+- 💹 <a href="https://zelofamiliar.com.br" target="_blank"><b>Zelo</b></a> - Shared Financial Management
 - 🏫 <a href="https://geact.com.br" target="_blank"><b>GEACT</b></a> – Real Estate Launch Management Platform
 - 🛒 <a href="https://cartz.cartaz.digital" target="_blank"><b>Cartz</b></a> – Digital Catalog & Order System  
 - 🍍 **Castel Frutas App** – Fruit evaluation application
